@@ -5,7 +5,7 @@ The dataset I am studying here is provided by a Portuguese banking institution. 
 
 The aim of this study is to build predictive models to target the clients who are more likely to subscribe. In another words, make these camapigns more efficient.
 
-Using a Jupiter notebook, I am going to cover all the basic steps of a Machine Learning project:
+Using a jupyter notebook, I am going to cover all the basic steps of a Machine Learning project:
 
 1. Exploratory data analysis and data visualization
 2. Data preperation
